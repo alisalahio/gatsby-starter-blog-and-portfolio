@@ -1,12 +1,30 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Gatsby Starter Blog & Porfolio`,
+    author: `Ali Salah`,
+    description: `A starter blog & portfolio for gatsby.`,
+    siteUrl: `https://gatsby-starter-blog-and-portfolio-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `alisalahio`,
     },
+    projects: [
+      {
+        title: `Gatsby Starter Blog & Portfolio!`,
+        description: `Gatsby official starter with portfolio section added!`,
+        url: `https://gatsby-starter-blog-and-portfolio.netlify.com/`,
+        moreLinks: [
+          {
+            type: `Github`,
+            url: `https://github.com/alisalahio/gatsby-starter-blog-and-portfolio`,
+          },
+        ]
+      },
+      {
+        title: `React`,
+        description: `React's homepage is created with Gatsby!`,
+        url: `https://reactjs.org/`,
+      }
+    ]
   },
   plugins: [
     {

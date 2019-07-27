@@ -62,10 +62,14 @@ class Layout extends React.Component {
       >
         <header>{header}</header>
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
+        <footer
+          style={{
+            marginTop: 70,
+          }}
+        >
+          © {new Date().getFullYear()}, Forked from
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="https://github.com/gatsbyjs/gatsby-starter-blog">Gatsby Starter Blog</a>
         </footer>
       </div>
     )
