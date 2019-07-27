@@ -35,8 +35,8 @@ const Posts = () => {
             fontFamily: `Montserrat, sans-serif`,
             marginTop: rhythm(3),
             marginBottom: 0,
-            color: 'grey',
-            textTransform: 'uppercase',
+            color: "grey",
+            textTransform: "uppercase",
           }}
         >
           Recent Posts

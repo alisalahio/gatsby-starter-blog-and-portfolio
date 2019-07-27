@@ -54,8 +54,8 @@ const Bio = () => {
         }}
       />
       <p>
-        <strong>{author}</strong> is a developer who lives
-        and works in Cairo and builds useful things.
+        <strong>{author}</strong> is a developer who lives and works in Cairo
+        and builds useful things.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow him on Twitter

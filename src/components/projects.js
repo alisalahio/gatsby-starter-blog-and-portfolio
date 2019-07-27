@@ -39,8 +39,8 @@ const Projects = () => {
             fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
             marginBottom: 0,
-            color: 'grey',
-            textTransform: 'uppercase',
+            color: "grey",
+            textTransform: "uppercase",
           }}
         >
           Recent Projects
@@ -67,21 +67,22 @@ const Projects = () => {
               </h3>
               <p>
                 {description}
-                {moreLinks && moreLinks.map(link => (
-                  <a
-                    key={link.url}
-                    href={link.url}
-                    style={{ marginLeft: 10 }}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    {link.type}
-                  </a>
-                ))}
+                {moreLinks &&
+                  moreLinks.map(link => (
+                    <a
+                      key={link.url}
+                      href={link.url}
+                      style={{ marginLeft: 10 }}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      {link.type}
+                    </a>
+                  ))}
               </p>
             </div>
-          )}
-        )}
+          )
+        })}
       </div>
     </div>
   )

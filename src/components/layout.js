@@ -69,7 +69,9 @@ class Layout extends React.Component {
         >
           © {new Date().getFullYear()}, Forked from
           {` `}
-          <a href="https://github.com/gatsbyjs/gatsby-starter-blog">Gatsby Starter Blog</a>
+          <a href="https://github.com/gatsbyjs/gatsby-starter-blog">
+            Gatsby Starter Blog
+          </a>
         </footer>
       </div>
     )
