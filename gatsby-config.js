@@ -17,14 +17,14 @@ module.exports = {
             type: `Github`,
             url: `https://github.com/alisalahio/gatsby-starter-blog-and-portfolio`,
           },
-        ]
+        ],
       },
       {
         title: `React`,
         description: `React's homepage is created with Gatsby!`,
         url: `https://reactjs.org/`,
-      }
-    ]
+      },
+    ],
   },
   plugins: [
     {
