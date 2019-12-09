@@ -14,6 +14,17 @@ Kick off your project with this blog and portfolio boilerplate. This starter shi
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
+### 🙋🏻‍♂️ Made by [@alisalahio](https://twitter.com/alisalahio)  
+
+### Other projects:
+- 🍪 [Gatsby plugin metomic](https://github.com/alisalahio/gatsby-plugin-metomic) Add metomic to automatically manage cookie consents on your gatsby website
+- 🙀 [Sup](https://supstatus.com) - The status page for your startup.
+- 🤓 [Sipreads](https://sipreads.com) - Takaways from the best nonfiction books.
+--- 
+
+
+
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
