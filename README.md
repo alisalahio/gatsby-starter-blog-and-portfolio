@@ -17,9 +17,9 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 ### 🙋🏻‍♂️ Made by [@alisalahio](https://twitter.com/alisalahio)  
 
 ### Other projects:
-- 🍪 [Gatsby plugin metomic](https://github.com/alisalahio/gatsby-plugin-metomic) Add metomic to automatically manage cookie consents on your gatsby website
-- 🙀 [Sup](https://supstatus.com) - The status page for your startup.
-- 🤓 [Sipreads](https://sipreads.com) - Takaways from the best nonfiction books.
+- 🍪 [Gatsby metomic plugin](https://github.com/alisalahio/gatsby-plugin-metomic) Manage cookie consents on your gatsby site.
+- 🙀 [Instatus](https://instatus.com) - Get a hosted status page.
+- 🤓 [Sipreads](https://sipreads.com) - Read nonfiction book summaries.
 --- 
 
 
