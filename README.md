@@ -1,3 +1,11 @@
+
+### 🙋🏻‍♂️ Made by [@alisalahio](https://twitter.com/alisalahio)  
+
+### Other projects:
+- 🍪 [Gatsby metomic plugin](https://github.com/alisalahio/gatsby-plugin-metomic) Manage cookie consents on your gatsby site.
+- 🙀 [Instatus](https://instatus.com) - Get a hosted status page.
+- 🤓 [Sipreads](https://sipreads.com) - Read nonfiction book summaries.
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -13,16 +21,7 @@ This projects is just gatsby's blog starter, with a portfolio section added!
 Kick off your project with this blog and portfolio boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
-
-### 🙋🏻‍♂️ Made by [@alisalahio](https://twitter.com/alisalahio)  
-
-### Other projects:
-- 🍪 [Gatsby metomic plugin](https://github.com/alisalahio/gatsby-plugin-metomic) Manage cookie consents on your gatsby site.
-- 🙀 [Instatus](https://instatus.com) - Get a hosted status page.
-- 🤓 [Sipreads](https://sipreads.com) - Read nonfiction book summaries.
 --- 
-
-
 
 
 ## 🚀 Quick start
