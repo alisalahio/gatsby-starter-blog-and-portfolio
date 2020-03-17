@@ -2,7 +2,7 @@
 ### 🙋🏻‍♂️ Made by [@alisalahio](https://twitter.com/alisalahio)  
 
 ### Other projects:
-- 🍪 [Gatsby metomic plugin](https://github.com/alisalahio/gatsby-plugin-metomic) Manage cookie consents on your gatsby site.
+- 🍪 [Gatsby metomic](https://github.com/alisalahio/gatsby-plugin-metomic) Add cookie consent to your gatsby site.
 - 🙀 [Instatus](https://instatus.com) - Get a hosted status page.
 - 🤓 [Sipreads](https://sipreads.com) - Read nonfiction book summaries.
 
