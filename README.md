@@ -1,3 +1,5 @@
+This projects is just [gatsby's blog starter](https://github.com/gatsbyjs/gatsby-starter-blog), with a portfolio section added!
+
 
 ### 🙋🏻‍♂️ Made by [@alisalahio](https://twitter.com/alisalahio)  
 
@@ -16,7 +18,6 @@
   Gatsby's blog and portfolio starter
 </h1>
 
-This projects is just gatsby's blog starter, with a portfolio section added!
 
 Kick off your project with this blog and portfolio boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
